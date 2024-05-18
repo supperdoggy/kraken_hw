@@ -1,6 +1,3 @@
-README.md
-markdown
-Copy code
 # Bitcoin LTP API
 
 This is a simple Go API application that retrieves the Last Traded Price (LTP) of Bitcoin for the currency pairs BTC/USD, BTC/CHF, and BTC/EUR using the Kraken public API.
